@@ -15,3 +15,8 @@ image Magick :
 ## use: 
 `cd text2gif`   
 `./text2gif.sh`  
+  
+---
+  
+## Contact
+https://discord.gg/pNwYhkNC
